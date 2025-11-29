@@ -1,0 +1,90 @@
+{"srno": "FP1", "title": "Customer says Asian Paints is too expensive for me", "zone": "Lead Management"}
+{"srno": "FP2", "title": "Customer is not responding to my calls and WhatsApp messages", "zone": "Lead Management"}
+{"srno": "FP3", "title": "Customer says - How can you prove that AP is better than local contractors?", "zone": "Lead Management"}
+{"srno": "FP4", "title": "Customer has a trusted local contractor who he has been working with for many years.", "zone": "Lead Management"}
+{"srno": "FP5", "title": "Customer is already using / interested in a competitor branded service.", "zone": "Lead Management"}
+{"srno": "FP6", "title": "Don’t know how to plan for sales targets.", "zone": "Lead Management"}
+{"srno": "FP7", "title": "Not getting enough local leads.", "zone": "Lead Management"}
+{"srno": "FP8", "title": "Customers are not responding to cold calling. Conversion rates are low.", "zone": "Lead Management"}
+{"srno": "FP9", "title": "Customer site is very far away from my area.", "zone": "Lead Management"}
+{"srno": "FP10", "title": "Customer is asking only for 1 wall", "zone": "Lead Management"}
+{"srno": "FP11", "title": "Customer has requests for appointment at abnormal times.", "zone": "Lead Management"}
+{"srno": "FP12", "title": "Customer has a negative image of Asian Paints. Customer had a bad experience with us earlier.", "zone": "Lead Management"}
+{"srno": "FP13", "title": "Customer does not want to do business with my dealer", "zone": "Lead Management"}
+{"srno": "FP14", "title": "Customer only wants a quotation to understand our prices.", "zone": "Lead Management"}
+{"srno": "FP15", "title": "Customer only wants to select colors - doesn't want service.", "zone": "Lead Management"}
+{"srno": "FP16", "title": "I am late for customer appointment. Customer is angry.", "zone": "Pre-sales"}
+{"srno": "FP17", "title": "I do not have my measurement tools for site visit", "zone": "Pre-sales"}
+{"srno": "FP18", "title": "I do not have some design catalogues. Customer says come back again.", "zone": "Pre-sales"}
+{"srno": "FP19", "title": "Customer says he asked for AP service and not a local dealer service", "zone": "Pre-sales"}
+{"srno": "FP20", "title": "I am a new Associate. Customer is not confident that I can deliver.", "zone": "Pre-sales"}
+{"srno": "FP21", "title": "Customer has read up on the internet and firing questions ", "zone": "Pre-sales"}
+{"srno": "FP22", "title": "Customer says process is too long", "zone": "Pre-sales"}
+{"srno": "FP23", "title": "How to create stars when understanding the customer’s needs?", "zone": "Pre-sales"}
+{"srno": "FP24", "title": "Customer is confused and not giving details about his design / budget needs ", "zone": "Pre-sales"}
+{"srno": "FP25", "title": "Customer is asking for unusual things at site.", "zone": "Pre-sales"}
+{"srno": "FP26", "title": "Customer is asking for painting work on damp / undulating walls", "zone": "Pre-sales"}
+{"srno": "FP27", "title": "Customer has a large family and everyone has their own different needs ", "zone": "Pre-sales"}
+{"srno": "FP28", "title": "How to create stars when giving solutions to the customer? ", "zone": "Pre-sales"}
+{"srno": "FP29", "title": "Customer is not agreeing with the site measurements I have done.", "zone": "Pre-sales"}
+{"srno": "FP30", "title": "Customer wants the house painted by a certain date. But the job is big and will take double the time.", "zone": "Pre-sales"}
+{"srno": "FP31", "title": "Customer does not agree with the product I have suggested ", "zone": "Pre-sales"}
+{"srno": "FP32", "title": "Customer says the quotation is from the dealer and not AP. Is it genuine? ", "zone": "Pre-sales"}
+{"srno": "FP33", "title": "How to create stars when doing site assessment? ", "zone": "Pre-sales"}
+{"srno": "FP34", "title": "Customer wants the color selection to be done at site, he cannot come to store", "zone": "Pre-sales"}
+{"srno": "FP35", "title": "How to create stars when creating a quotation? ", "zone": "Pre-sales"}
+{"srno": "FP36", "title": "Customer doesn’t trust that I am an SPS representative", "zone": "Pre-sales"}
+{"srno": "FP37", "title": "Customer wants a detailed item by item breakup of the quotation", "zone": "Pre-sales"}
+{"srno": "FP38", "title": "Customer is asking for free sample", "zone": "Pre-sales"}
+{"srno": "FP39", "title": "Customer doesn’t understand the difference between different paint products ", "zone": "Pre-sales"}
+{"srno": "FP40", "title": "Customer has come for color consulting and has taken the whole day ", "zone": "Pre-sales"}
+{"srno": "FP41", "title": "Customer says AP website has quoted lower prices ", "zone": "Sales Closure"}
+{"srno": "FP42", "title": "Customer says quotation is out of his budget", "zone": "Sales Closure"}
+{"srno": "FP43", "title": "Loyal customer is asking for high discounts ", "zone": "Sales Closure"}
+{"srno": "FP44", "title": "Customer is not closing the deal. He doesn’t take my calls or gives excuses every time I call.", "zone": "Sales Closure"}
+{"srno": "FP45", "title": "Customer asks why should he pay the cheque to the dealer? ", "zone": "Sales Closure"}
+{"srno": "FP46", "title": "Customer says I have a cheaper quotation from others ", "zone": "Sales Closure"}
+{"srno": "FP47", "title": "Customer is bargaining on every item of the quotation ", "zone": "Sales Closure"}
+{"srno": "FP48", "title": " Customer does not agree to do the advance payment, asks for materials first ", "zone": "Sales Closure"}
+{"srno": "FP49", "title": "Customer doesn’t agree with payment terms ", "zone": "Sales Closure"}
+{"srno": "FP50", "title": "How to create stars when planning site execution with the customer? ", "zone": "Execution Planning"}
+{"srno": "FP51", "title": " All the regular contractors are busy and the customer wants to start the work immediately", "zone": "Execution Planning"}
+{"srno": "FP52", "title": "How to create stars when sharing the work plan with the customer?", "zone": "Execution Planning"}
+{"srno": "FP53", "title": "Dealer has recommended a contractor who has many complaints in the past ", "zone": "Execution Planning"}
+{"srno": "FP54", "title": "Contractor does not want to do the job because the amount he will get is too less for him ", "zone": "Execution Planning"}
+{"srno": "FP55", "title": "Contractor does not care about the customer’s deadline ", "zone": "Execution Planning"}
+{"srno": "FP56", "title": "How to create stars when telling the customer what he’s going to get at the end of the project?", "zone": "Execution Planning"}
+{"srno": "FP57", "title": "Material is not available, work cannot start on time ", "zone": "Execution Planning"}
+{"srno": "FP58", "title": "Contractor says he won’t work at night to finish the work faster ", "zone": "Execution Planning"}
+{"srno": "FP59", "title": "Meeting your sales targets successfully", "zone": NaN}
+{"srno": "FP60", "title": "Meeting your project deadlines successfully ", "zone": NaN}
+{"srno": "FP61", "title": "Workers have not come on the first day of work.", "zone": "Work In Progress"}
+{"srno": "FP62", "title": "Customer wants to postpone site work as he needs more time.", "zone": "Work In Progress"}
+{"srno": "FP63", "title": "Workmen have shifted customer’s personal items. Customer wants the workmen removed from site.", "zone": "Work In Progress"}
+{"srno": "FP64", "title": "Workmen have damaged / broken the customer’s items. Customer wants it reimbursed.", "zone": "Work In Progress"}
+{"srno": "FP65", "title": "Customer is angry that workmen have entered their private room without permission. ", "zone": "Work In Progress"}
+{"srno": "FP66", "title": " Customer called to say that workmen are making noise. ", "zone": "Work In Progress"}
+{"srno": "FP67", "title": "Workmen are not maintaining cleaning and safety protocols.", "zone": "Work In Progress"}
+{"srno": "FP68", "title": "Customer has to pay the next installment but is delaying. Says come after a few days. ", "zone": "Work In Progress"}
+{"srno": "FP69", "title": "How to create stars when handing over the finished site? ", "zone": "Site Completion"}
+{"srno": "FP70", "title": "Customer is unhappy with the quality of paint finish (brush marks, patches).", "zone": "Site Completion"}
+{"srno": "FP71", "title": "Contractor is not available for touch-ups. He has been deployed in other projects. Site handover stalls. ", "zone": "Site Completion"}
+{"srno": "FP72", "title": "Customer complains that the warranty has not been activated.   ", "zone": "Site Completion"}
+{"srno": "FP73", "title": "Customer is angry that the furniture has not been put back properly on the site. ", "zone": "Site Completion"}
+{"srno": "FP74", "title": "Customer is not able to give me referrals.", "zone": "Site Completion"}
+{"srno": "FP75", "title": "Workmen are late everyday delaying the site work. Customer is angry. ", "zone": "Work In Progress"}
+{"srno": "FP76", "title": "Workmen are taking double the time to complete each item, job getting delayed.", "zone": "Work In Progress"}
+{"srno": "FP77", "title": "Contractor has withdrawn all his workmen because of payment issues.", "zone": "Work In Progress"}
+{"srno": "FP78", "title": "Site is going to stop due to lack of paint materials and there is no stock in the shop. ", "zone": "Work In Progress"}
+{"srno": "FP79", "title": "Customer is complaining about paint dust / smell on site. ", "zone": "Work In Progress"}
+{"srno": "FP80", "title": "Family members have asthma. Customer wants the workmen to take care.  ", "zone": "Work In Progress"}
+{"srno": "FP81", "title": "Customer is out of town. They want daily updates on site progress.  ", "zone": "Work In Progress"}
+{"srno": "FP82", "title": "How to create stars during site supervision?   ", "zone": "Work In Progress"}
+{"srno": "FP83", "title": "Bad weather is delaying completion of the project.", "zone": "Work In Progress"}
+{"srno": "FP84", "title": "Customer feels that shade on the wall does not match the color selected.  ", "zone": "Work In Progress"}
+{"srno": "FP85", "title": "Customer has some other parallel work going on. It is interrupting the painting job.", "zone": "Work In Progress"}
+{"srno": "FP86", "title": "Customer has added an extra room to the site but wants it done for less price. ", "zone": "Work In Progress"}
+{"srno": "FP87", "title": "Contractor has confirmed that he has finished the job. Customer says it is still incomplete. ", "zone": "Work In Progress"}
+{"srno": "FP88", "title": "Painting is halfway through. Workmen have found undulations / leakages on site which were not detected earlier. Customer is not aware.  ", "zone": "Work In Progress"}
+{"srno": "FP89", "title": "Too many sites and leads. I don’t know how to manage. ", "zone": "Work In Progress"}
+{"srno": "FP90", "title": "While I am supervising an important WIP site, another customer wants me to come to his site immediately.", "zone": "Work In Progress"}
